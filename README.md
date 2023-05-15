@@ -4,3 +4,4 @@ Deborah Neumann
 Aline Gómez
 Martina Serrano 
 Francisca Portiño
+Florencia Henríquez
