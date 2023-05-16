@@ -1,4 +1,4 @@
-# m02-g11
+#Repositorio grupo 11
 
 - Deborah Neumann
 - Aline Gómez
