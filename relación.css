@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Squada+One&display=swap');
 
-body {font-family: "Squada";
+body {font-family: "Poppins";
 width: 99vw;
 font-size: 20px;  }
 
@@ -29,7 +29,9 @@ nav a:hover{
 margin-left: 10px;
 margin-right: 10px;
 color: whitesmoke;
-text-align: center;}
+text-align: center;
+font-family: "Squada One";
+font-size: 40px;}
 
 .vinculo p{background-color: #DCE1CD;
 margin-left: 10px;

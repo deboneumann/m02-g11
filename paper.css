@@ -1,7 +1,7 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Squada+One&display=swap');
 
-body {font-family: "Squada";
+body {font-family: "Poppins";
 width: 99vw;
 font-size: 20px;}
 
@@ -39,4 +39,8 @@ h2 {background-color: #7C8661;
 margin-left: 10px;
 margin-right: 10px;
 color: whitesmoke;
+font-size: 40px;
 text-align: center;}
+
+.titulo h2 {font-family: "Squada One";
+font-size: 60px;} 
