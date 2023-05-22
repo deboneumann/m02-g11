@@ -5,6 +5,11 @@ body {font-family: "Poppins";
 width: 99vw;
 font-size: 20px;  }
 
+
+/*saqué el código https://youtu.be/pMrg4L5D0n0/*/
+
+
+
 header {background-color:#454C31; 
 text-align: center;
 margin-right: 10px;
@@ -45,6 +50,11 @@ margin-left: 10px;
 font-size: 20px;
 padding: 10px;
 padding-top: 0px;} 
+
+
+/* Saqué el código de https://www.migueltroyano.com/css/carrusel-imagenes-html-css/*/
+
+
 
 .slide {
                 position: relative;
@@ -161,5 +171,8 @@ padding-top: 0px;}
 height: 20%;
 background-color: #454C31;
 position: relative;}
+
+
+
 
 
