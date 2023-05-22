@@ -29,20 +29,69 @@ nav a:hover{
   }
 
 .bio {background-color: #DCE1CD;
-margin-left: 10px;
-margin-right: 10px;
 padding: 5px;
-margin-top: 5px}
+margin-top: 5px;
+width: 100%}
+
+.bio h2 {margin-left: 46%;
+    position: absolute;
+    margin-top: -14%;
+}
+
+.bio p {margin-left: 46%;
+    position: absolute;
+    margin-top: -11%;
+    margin-right: 15%;
+}
 
 .trabajos h2 {background-color: #7C8661;
-margin-left: 10px;
-margin-right: 10px;
+margin-left: 0%;
+margin-right: 0%;
 color: whitesmoke;
-text-align: center;}
+text-align: center;
+width: 44%;
+height:40px;
+margin-top: 0px;
+font-size: 30px}
+
 
 .trabajos p {margin-left: 10px;
-margin-right: 10px;
-padding: 5px}
+margin-right: 0%;
+margin-left: 28%;
+padding: 5px;
+width: 50%;
+margin-top: 3%;
+position: absolute;}
 
+.donella {width: 25%;
+    margin-left: 18%;
+    margin-top: 10px;
+    padding: 5px}
+
+
+.bio1 h2 {margin-left: 20%;
+    margin-right: 20%;
+}
+
+.libro {width: 6.5%;
+margin-left: 280px;
+margin-top: 3.5%;
+position: absolute;
+}
+
+
+.coso {width: 10%;
+margin-left: 70%;
+margin-top: 20%;
+position: absolute;}
+
+.trabajos2 p {margin-left: 10px;
+margin-right: 0%;
+margin-left: 18%;
+padding: 5px;
+width: 50%;
+margin-top: 18%;
+text-align: right;
+position: absolute;}
 
 
