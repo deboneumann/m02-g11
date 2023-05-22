@@ -94,4 +94,17 @@ padding-top: 10px;
 padding-right: 90px;
 font-family: Squada One;}
 
+.santiago {
+  margin-left: 15%;
+  margin-top: 5%;
+}
+
+.autor { position: absolute;
+      margin-top: -340px;
+      margin-left: 725px;
+      margin-right: 250px;
+      font-family: Squada One;
+      font-size: 20px;}
+.autor p {font-family: Poppins;}
+
 
