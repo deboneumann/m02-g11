@@ -34,17 +34,17 @@ margin-top: 0px;
 width: 100%;
 height: 300px;}
 
-.bio h2 {margin-left: 46%;
+.bio h2 {margin-left: 42%;
     position: absolute;
-    margin-top: -14%;
+    margin-top: -17%;
     font-size: 40px;
     font-family: "Squada One";
 }
 
-.bio p {margin-left: 46%;
+.bio p {margin-left: 42%;
     position: absolute;
-    margin-top: -11%;
-    margin-right: 15%;
+    margin-top: -13%;
+    margin-right: 10%;
     font-size: 20px;
 }
 
@@ -60,43 +60,43 @@ font-size: 40px;
 font-family: "Squada One";}
 
 
-.trabajos p {margin-left: 10px;
-margin-right: 0%;
-margin-left: 28%;
+.trabajos p {margin-left: 10%;
+margin-right: 10%;
+margin-left: 32%;
 padding: 5px;
 width: 50%;
-margin-top: 3%;
+margin-top: 13%;
 position: absolute;
 font-size: 18px;}
 
-.donella {width: 25%;
-    margin-left: 18%;
-    margin-top: 10px;
+.donella {width: 30%;
+    margin-left: 10%;
+    margin-top: 40px;
     padding: 5px}
 
 
 .bio1 h2 {margin-left: 20%;
-    margin-right: 20%;
+    margin-right: 30%;
 }
 
-.libro {width: 6.5%;
-margin-left: 280px;
+.libro {width: 20%;
+margin-left: 150px;
 margin-top: 3.5%;
 position: absolute;
 }
 
 
-.coso {width: 10%;
-margin-left: 70%;
-margin-top: 20%;
+.coso {width: 30%;
+margin-left: 52%;
+margin-top: 42%;
 position: absolute;}
 
 .trabajos2 p {margin-left: 10px;
-margin-right: 0%;
-margin-left: 18%;
+margin-right: %;
+margin-left: 10%;
 padding: 5px;
-width: 50%;
-margin-top: 18%;
+width: 42%;
+margin-top: 42%;
 text-align: right;
 position: absolute;
 font-size: 18px;}
