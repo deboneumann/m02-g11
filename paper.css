@@ -44,3 +44,62 @@ text-align: center;}
 
 .titulo h2 {font-family: "Squada One";
 font-size: 60px;} 
+
+
+footer {
+  
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  height: auto;
+  padding-top: 40px;
+  background-color:#f9efce;
+
+  align-items: center;
+ align-content: center;}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.footer-content h3 {
+    font-size: 1,8rem;
+    font-family: Poppins;
+    color: #422513;
+
+}
+
+.footer-content p { max-width:500px;
+margin: 10px auto;
+font-size:1,5rem;
+font-family:Poppins;
+    color: #422513; } 
+
+
+
+
+.socials {list-style: none;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 1 rem 0 3 rem 0;}
+
+.socials li { margin:0 10px; }
+.socials a { text text-decoration:none; }
+.socials a i {font-size:1.1 rem;}
+
+
+.footer-bottom { background: ;
+width: 100vw;
+padding: 20 px 0;
+text-align: center;} 
+
+
+
+
+
+
+
