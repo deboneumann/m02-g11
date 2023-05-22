@@ -41,7 +41,9 @@ nav li a {text-decoration: none;
 
 .texto {text-align: center;
 padding-top: 30px;
-padding-bottom: 20px;}
+padding-bottom: 20px;
+margin-left: 10%;
+margin-right: 10%}
 
 .texto2 {display: block;
          height: 100px;
@@ -52,25 +54,51 @@ padding-bottom: 20px;}
         font-family: Squada One;
         font-size: 20px;} 
 
+.caja1 {width: 100%;
+height:350px;
+background-color: #DCE1CD}
 
 .donatella { float: left;
-  margin-top: 50px;
-margin-left: 10px;
+    position: absolute;
+  margin-top: -55%;
+margin-left: 200px;
 margin-right: 10px;}
 
 .bio { display: right;
-      margin-top: 50px;
-      margin-left: 10px;
+    position: absolute;
+      margin-top: -55%;
+      margin-left: 50%;
+      margin-right: 13%;
       font-family: Squada One;
       font-size: 20px;}
 .bio p {font-family: Poppins;}
 
+.cajatrabajo {width: 100%;
+height:350px;
+background-color: #DCE1CD;
+margin-top: 10%;}
+}
+.caja2 {width: 100%;
+height:350px;
+background-color: #DCE1CD;
+margin-top: 10%}
+
+.trabajos { display: right;
+      margin-top: 8%;
+      margin-left: 10%;
+      margin-right: 50%;
+      font-family: Poppins;
+      font-size: 20px;}
+
 .titulo {display: block;
-  margin-top: 150px;
+  margin-top: 8%;
 margin-left: auto;
-margin-left: auto;
-width: auto;
+margin-left: 15%;
+width: 70%;
 text-align: center;}
+.titulo p {margin-left: -10%;
+width: 120%;
+margin-top: 3%}
 
 .esquema {display: block;
   margin-left: auto;
