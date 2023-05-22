@@ -3,7 +3,7 @@
 
 body {font-family: "Squada";
 width: 99vw;
-font-size: 20px;  }
+font-size: 20px;}
 
 header {background-color:#454C31;
 text-align: center;
@@ -26,19 +26,17 @@ nav a:hover{
     color: #fff;
 
   }
+.esquema {text-align: center;}
 
-h1 {
-    text-align: center;
-    background-color: #7C8661;
-    color: whitesmoke;
-    margin-right: 10px;
+p { background-color: #DCE1CD;
 margin-left: 10px;
-margin-top: -10px;
-
-}
-
-p {text-align: justify;
 margin-right: 10px;
+padding: 5px;
+margin-top: 5px;
+text-align:justify; }
+
+h2 {background-color: #7C8661;
 margin-left: 10px;
-font-size: 20px;
-padding: 10px}
+margin-right: 10px;
+color: whitesmoke;
+text-align: center;}

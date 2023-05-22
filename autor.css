@@ -3,7 +3,8 @@
 
 body {font-family: "Squada";
 width: 99vw;
-font-size: 20px;  }
+font-size: 20px;
+text-align: justify;}
 
 header {background-color:#454C31;
 text-align: center;
@@ -27,18 +28,21 @@ nav a:hover{
 
   }
 
-h1 {
-    text-align: center;
-    background-color: #7C8661;
-    color: whitesmoke;
-    margin-right: 10px;
+.bio {background-color: #DCE1CD;
 margin-left: 10px;
-margin-top: -10px;
-
-}
-
-p {text-align: justify;
 margin-right: 10px;
+padding: 5px;
+margin-top: 5px}
+
+.trabajos h2 {background-color: #7C8661;
 margin-left: 10px;
-font-size: 20px;
-padding: 10px}
+margin-right: 10px;
+color: whitesmoke;
+text-align: center;}
+
+.trabajos p {margin-left: 10px;
+margin-right: 10px;
+padding: 5px}
+
+
+

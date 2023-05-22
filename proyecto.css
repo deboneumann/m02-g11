@@ -1,5 +1,4 @@
-
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Squada+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Squada+One&display=swap');
 
 body {font-family: "Squada";
 width: 99vw;
@@ -27,18 +26,24 @@ nav a:hover{
 
   }
 
-h1 {
-    text-align: center;
-    background-color: #7C8661;
-    color: whitesmoke;
-    margin-right: 10px;
-margin-left: 10px;
-margin-top: -10px;
-
-}
-
-p {text-align: justify;
+.santiago {background-color: whitesmoke;
+text-align: justify;
 margin-right: 10px;
 margin-left: 10px;
 font-size: 20px;
-padding: 10px}
+padding: 10px;
+width: 500px}
+
+
+.trabajos h2 {background-color: #7C8661;
+margin-left: 10px;
+margin-right: 10px;
+color: whitesmoke;
+text-align: center;}
+
+.trabajos p{background-color: #DCE1CD;
+margin-left: 10px;
+margin-right: 10px;
+padding: 5px;
+margin-top: 5px;
+text-align: justify;}
